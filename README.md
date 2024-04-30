@@ -1,6 +1,6 @@
 # notas-atletas
 Atividade 1
-Bom irei explicar como a classe/função funciona. Eu fal antes que tive muita dificuldade até fazer tudo kskk.. espero que esteja do agrado. Tenho 15 anos e estou pra fazer 16 agora em março. Eu gosto muito de programar e espero conseguir um emprego de Jivem Aprendiz na área tecnologica. 
+Bom irei explicar como a classe/função funciona. Eu gosto muito de programar e espero conseguir um emprego de Jovem Aprendiz na área tecnologica. 
 
 Obs: sobre o resultado do calculo da média tentei deixar o resultado mais próximo possivel! Levei horas para fazer então espero que esteja funcionando corretamente ai para vocês..
 
